@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'base.apps.BaseConfig',
+    'streaming.apps.StreamingConfig'
 ]
 
 MIDDLEWARE = [
